@@ -57,3 +57,25 @@ This is normal - you are working with a larger, unfamiliar word set and also typ
 Monkeytype is the platform where one can refine your typing and practice to get to that  sweet 100+ wpm zone.
 
 I am still experimenting with settings on monkeytype and will share future updates as I uncover more.
+
+# How will my first week look like when starting out?
+It is going.
+To suck.
+Big time.
+
+You will want to quit 2 days in.
+
+Why?
+- Typing is frustratingly slow.
+- Spelling mistakes are aplenty.
+- Pinky and wrist discomfort.
+- Swearing.
+
+However, all these things WILL pass.
+
+Remember, this is an S-curve skill type you are acquiring.
+The big returns will reveal themselves down the line.
+
+Do those 10 minutes of typing practice daily.
+It is worth the effort and you can do it!
+
