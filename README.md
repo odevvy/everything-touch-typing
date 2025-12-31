@@ -79,3 +79,29 @@ The big returns will reveal themselves down the line.
 Do those 10 minutes of typing practice daily.
 It is worth the effort and you can do it!
 
+# Why are keyboard rows offset?
+Have you ever wondered why your keyboard rows are a bit offset from one another?
+
+I always thought it served some purpose.
+Turns out, it does.
+
+Historically.
+For manual typewriters.
+
+For a manual typewriter, each key is connected to a typebar via a linkage system. The typebars are arranged in a basket and swing up to strike the ribbon and paper.
+To prevent the typebars from colliding or jamming if adjacent keys were pressed in rapid succession, the keys were physically offset. 
+
+This convention stuck with modern day keyboards, although physical collisions and jamming are not issues anymore.
+
+QWERTY, named for the top-left key order, has become the standard layout.
+
+However, this key layout was designed for practical reasons and not for typing speed / ergonomics.
+New layouts have emerged focussing on the latter.
+
+# Other Typing Layouts
+Dvorak - places common letters on the home row for less finger travel. Has a high learning curve.
+Colemak - Modern alternative to QWERTY. Keeps common shortcuts familiar but improves ergonomics.
+AZERTY - French standard, switches A/Q and Z/W.
+QWERTZ - German standard, swaps Z/Y from QWERTY.
+Workman - Another modern layout focusing on finger comfort and hand alternation.
+
